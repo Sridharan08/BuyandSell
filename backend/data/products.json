@@ -1,15 +1,12 @@
 [
     {
         "name": "OPPO F21s Pro 5G",
-        "price": 245.67,
+        "price": 18999,
         "description": "OPPO F21s Pro 5G is a powerful device with a RAM extension feature, that offers brilliant operational speed to users.",
         "ratings": 4.5,
         "images": [
             {
                 "image": "/images/products/1.jpg"
-            },
-            {
-                "image": "/images/products/2.jpg"
             }
         ],
         "category": "Mobile Phones",
@@ -19,8 +16,40 @@
         "reviews": []
     },
     {
+        "name": "OPPO F59 5G",
+        "price": 19799,
+        "description": "OPPO A59 5G (Starry Black, 6GB RAM, 128GB Storage) | 5000 mAh Battery with 33W SUPERVOOC Charger | 6.56 HD+ 90Hz Display .",
+        "ratings": 4.5,
+        "images": [
+            {
+                "image": "/images/products/8.jpg"
+            }
+        ],
+        "category": "Mobile Phones",
+        "seller": "Amazon",
+        "stock": 15,
+        "numOfReviews": 15,
+        "reviews": []
+    },
+	{
+        "name": "OPPO Reno11 5G",
+        "price": 27000,
+        "description": "Embark on a journey of innovation and elegance with the Oppo Reno11 5G smartphone. It's not just a device; it's a masterpiece that stands out in every aspect of modern mobile technology. From the ultra-clear portrait camera system to the exquisite design, powerful performance, and intelligent features of ColorOS 14, the Oppo Reno11 5G is a symphony of incredible technology and captivating aesthetics. With its unparalleled camera system, innovative craftsmanship, powerful performance, and intelligent features, it stands as a beacon of excellence in the world of smartphones.",
+        "ratings": 4.2,
+        "images": [
+            {
+                "image": "/images/products/9.webp"
+            }
+        ],
+        "category": "Mobile Phones",
+        "seller": "Amazon",
+        "stock": 10,
+        "numOfReviews": 15,
+        "reviews": []
+    },
+    {
         "name": "WRISTIO HD, Bluetooth Calling Smart Watch",
-        "price": 150.32,
+        "price": 799,
         "description": "Minix watches are exclusively designed to fulfill the advanced tech needs of today’s generation.",
         "ratings": 3.5,
         "images": [
@@ -36,7 +65,7 @@
     },
     {
         "name": "Dell Inspiron 3511 Laptop",
-        "price": 440.57,
+        "price": 47999,
         "description": "Dell Inspiron 3511 11th Generation Intel Core i5-1135G7 Processor (8MB Cache, up to 4.2 GHz);Operating System: Windows 10 Home Single Language, English",
         "ratings": 2,
         "images": [
@@ -52,7 +81,7 @@
     },
     {
         "name": "Lenovo IdeaPad Slim 3 Laptop",
-        "price": 250.45,
+        "price": 59999,
         "description": "Lenovo IdeaPad Slim 311th Gen Intel Core i5-1135G7 | Speed: 2.4 GHz (Base) - 4.2 GHz (Max) | 4 Cores | 8 Threads | 8 MB Cache",
         "ratings": 4,
         "images": [
@@ -68,7 +97,7 @@
       },
       {
         "name": "ASUS VivoBook 15 Laptop",
-        "price": 767.32,
+        "price": 45000,
         "description": "ASUS VivoBook 15 15.6-inch (39.62 cm) HD, Dual Core Intel Celeron N4020, Thin and Light Laptop (4GB RAM/256GB SSD/Integrated Graphics/Windows 11 Home/Transparent Silver/1.8 Kg), X515MA-BR011W",
         "ratings": 5,
         "images": [
@@ -84,7 +113,7 @@
     },
     {
         "name": "PTron Newly Launched Tangent Sports, 60Hrs Playtime",
-        "price": 15.46,
+        "price": 999,
         "description": "Gigantic 60 + Hours of music playtime on a single charge; BT5.2 Wireless headphones with ENC (Environmental Noise Cancellation) Technology to enhance your voice quality over the voice calls",
         "ratings": 5,
         "images": [
@@ -100,7 +129,7 @@
     },
     {
         "name": "Campus Men's Maxico Running Shoes",
-        "price": 10.12,
+        "price": 599,
         "description": "The high raised back cover with extra padding.",
         "ratings": 3,
         "images": [
@@ -113,5 +142,87 @@
         "stock": 6,
         "numOfReviews": 9,
         "reviews": []
-    }
+    },
+    {
+        "name": "OPPO A3 pro 5G",
+        "price": 19000,
+        "description": "For the contemporary consumer, Oppo has created a robust and stylish smartphone with the A3 Pro 5G. It has a 5100 mAh Hyper-energy Battery that lasts more than four years, a 45 W SUPERVOOCTM Flash Charge for quick charging, and a 360° Damage-proof Armour Body. Even in direct sunlight, the 120 Hz Ultra Bright Display provides bright, crisp images. With AI LinkBoost for flawless connectivity, AI Eraser for flawless photographs, and Ultra Volume Mode for clear conversations in busy conditions, it guarantees optimal performance. Beautiful photographs are captured by the 50 MP AI Main Camera and AI Portrait Retouching, while seamless multitasking is ensured by the MediaTek Dimensity 6300 5G processor and RAM Expansion. Savour the exquisite style and robust Anti-drop Shield Case for all-around pleasure.",
+        "ratings": 4.2,
+        "images": [
+            {
+                "image": "/images/products/10.webp"
+            }
+        ],
+        "category": "Mobile Phones",
+        "seller": "Amazon",
+        "stock": 8,
+        "numOfReviews": 20,
+        "reviews": []
+    },
+	{
+        "name": "OPPO A79 5G",
+        "price": 17499,
+        "description": "8 GB RAM | 128 GB ROM | Expandable Upto 1 TB 17.07 cm (6.72 inch) Full HD+ Display Rear Camera: 50MP AI Camera, 2MP Portrait Camera Front Camera: 8MP Selfie Camera | 8MP Front Camera 5000 mAh Lithium Polymer Battery Mediatek Dimensity 6020 Processor",
+        "ratings": 4.4,
+        "images": [
+            {
+                "image": "/images/products/11.webp"
+            }
+        ],
+        "category": "Mobile Phones",
+        "seller": "Flipkart",
+        "stock": 10,
+        "numOfReviews": 8,
+        "reviews": []
+	},
+	{
+        "name": "OPPO Reno10 5G",
+        "price": 32499,
+        "description": "Explore a range of new features on this Oppo Reno 10 5G smartphone. Capture interesting snaps with the ultra clear Portrait camera. This phone has a 64 MP main camera, 32 MP Telephoto camera, 32 MP selfie camera and a 112 degree wide-angle camera. Make a plethora of possibilities with the Telephoto portrait camera available with this phone. The Pro Portrait Mode lets you capture vivid pictures similar to that of a DSLR camera. This sleek phone weighs only about 185 g and has a 3D curved screen with 120 Hz. Powered with a 5000 mAh battery and 67 W SUPERVOOC charger, this phone runs for an entire day. This Oppo smartphone is equipped with MediaTek Dimensity 7050 SoC Processor and comprises a powerful computing engine. You can explore other features on this phone such as dual stereo speakers, screencast feature, IR remote control, smart AOD functionality and Auto Pixelate for safe file transferring.",
+        "ratings": 4.7,
+        "images": [
+            {
+                "image": "/images/products/12.webp"
+            }
+        ],
+        "category": "Mobile Phones",
+        "seller": "Flipkart",
+        "stock": 30,
+        "numOfReviews": 5,
+        "reviews": []
+	},
+	{
+        "name": "OPPO A78 5G",
+        "price": 17879,
+        "description": "The Oppo A78 5G smartphone brings to you a horde of innovative traits. Powered with a 33 W SUPERVOOC charger and a 5000 mAh battery capacity, you can travel anywhere without the need to worry about recharging your phone. With 8 GB expandable RAM and 128 GB of storage, experience hassle-free navigation. Built with a powerful 8 core 2.2 GHz processor, elevate your performance. The Dual Stereo Speakers, Ultra Volume Mode, 90 Hz refresh rate, FlexDrop feature, etc., are some of the salient features of this 5G smartphone. Equipped with a 50 MP main rear camera with AI portrait retouching feature, create memory by taking a number of photoshoots. You can translate quickly in more than 100 languages with Google Lens and secure your privacy with the 5-grade accessibility on this smartphone.",
+        "ratings": 4.1,
+        "images": [
+            {
+                "image": "/images/products/13.webp"
+            }
+        ],
+        "category": "Mobile Phones",
+        "seller": "Flipkart",
+        "stock": 15,
+        "numOfReviews": 10,
+        "reviews": []
+	},
+		{
+        "name": "OPPO Find N3 Flip 5G",
+        "price": 74999,
+        "description": "Get ready to embark on a journey into the future of mobile technology. The Oppo Find N3 Flip Smartphone is here to redefine your smartphone experience. The Oppo Find N3 Flip Smartphone is not just a phone; it's a technological marvel designed to complement your lifestyle. With its iconic design, brilliant camera system, and innovative features, it's a statement of your style and a gateway to a world of endless possibilities.",
+        "ratings": 4.9,
+        "images": [
+            {
+                "image": "/images/products/14.webp"
+            }
+        ],
+        "category": "Mobile Phones",
+        "seller": "Flipkart",
+        "stock": 50,
+        "numOfReviews": 10,
+        "reviews": []
+	}
+	
+	
 ]
